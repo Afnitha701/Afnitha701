@@ -1,9 +1,7 @@
 # 👋 Hi, I'm Afnitha P Abdulrahman  
 
 I’m a trained **Data Science professional** passionate about transforming data into actionable insights. My work focuses on building data-driven solutions that enhance decision-making and uncover meaningful patterns.  
-
--I’m certified in Data Science, with hands-on experience in projects across healthcare, gaming, and finance domains.  
--I enjoy working with data cleaning, exploratory analysis, and predictive modeling using Python and SQL.  
+  
 -I’m currently seeking **entry-level roles in Data Science, Data Analysis, or Business Analytics** where I can apply my skills to solve real-world problems.  
 
 ## Let’s Connect  

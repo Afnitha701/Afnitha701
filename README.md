@@ -8,7 +8,6 @@ I’m a trained **Data Science professional** passionate about transforming data
 I’m certified in Data Science, with hands-on experience in projects across healthcare, gaming, and finance domains.  
 I enjoy working with data cleaning, exploratory analysis, and predictive modeling using Python and SQL.  
 I’m currently seeking **entry-level roles in Data Science, Data Analysis, or Business Analytics** where I can apply my skills to solve real-world problems.  
-I love building models that tell a story through data and presenting results with clarity and impact.
 
 ---
 

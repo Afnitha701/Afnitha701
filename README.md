@@ -19,6 +19,6 @@ I love building models that tell a story through data and presenting results wit
 
 ---
 
- _“Data tells a story — I’m here to interpret it with clarity, accuracy, and insight.”_
+ _“Data tells a story — I’m here to interpret it with clarity, accuracy, and insight.”_.
 
 
